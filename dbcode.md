@@ -1,0 +1,15 @@
+insert into main_table values (100, "Smartphones", "Vivo V20", 45, "Vivo Pvt. Ltd.", 15000, "Vivo");
+insert into main_table values (101,"Smartphones", "Samsung Galaxy A50", 60, "Samsung Pvt. Ltd.", 75000, "Samsung");
+insert into main_table values (102,"Smartphones", "Iphone 15 Pro Max Ultra 6G", 25, "Apple Pvt. Ltd.", 250000, "Apple");
+insert into main_table values (103,"Television Set", "Redmi TV+ 4K", 43, "Xiaomi Pvt. Ltd.", 45000, "Xiaomi");
+insert into main_table values (104,"Television Set", "Samsung Ultra TV", 45, "Samsung Pvt. Ltd.", 37500, "Samsung");
+insert into main_table values (105,"Television Set", "Apple TV Pro Max Ultra", 45, "Apple Pvt. Ltd.", 95000, "Apple");
+insert into main_table values (106, "Shoes", "Nike Air", 12, "Nike Pvt. Ltd.", 69000, "Nike");
+insert into main_table values (106, "Shoes", "Bata Jordans", 23, "Bata Pvt. Ltd.", 42000, "Bata");
+insert into main_table values (106, "Shoes", "Crocs Pro Max+", 55 "Crocs Pvt. Ltd.", 16500, "Crocs");
+insert into main_table values (109, "Grocery","Maggi", 2000, "Maggi Pvt. Ltd.", 15000, "Maggi");
+insert into main_table values (110, "Grocery","Lux Detergent", 4300, "Uniliver Pvt. Ltd.", 15000, "Lux");
+insert into main_table values (111, "Grocery","Haldiram Potato Chips", 3400, "Haldirams Pvt. Ltd.", 15000, "Haldirams");
+insert into main_table values (112, "Games","GTA V", 12, "Rockstar Games", 4500, "Rockstar Games");
+insert into main_table values (113, "Games","Red Dead Redemption II", 14, "Rockstar Games", 4700, "Rockstar Games");
+insert into main_table values (114, "Games","Cyberpunk 2077", 16, "Electronic Arts", 35789, "EA");
