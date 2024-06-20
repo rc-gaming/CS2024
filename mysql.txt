@@ -1,0 +1,11 @@
+GMAIL;
+mail= compproject08@gmail.com
+gmail pass= Rcskgn12
+
+WEBSITE;
+sql website login pass= Rcskgn12
+host/SERVER: sql12.freesqldatabase.com
+username: sql12714909
+password: Rcskgn12
+database name= sql12714909
+Port number: 3306
